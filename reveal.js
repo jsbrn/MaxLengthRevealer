@@ -9,7 +9,7 @@ setInterval(() => {
 
         field.style.border = field.maxLength >= 0 ? "1px solid orange" : "1px solid green";
         field.placeholder = field.maxLength >= 0 ? "Limit: "+field.maxLength+" chars" : "No limit";
-        field.title = field.placeholder;
+        field.title = field.value;
     }
-    
+
 }, 2000);
