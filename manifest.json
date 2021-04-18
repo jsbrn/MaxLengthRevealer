@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "MaxLength Revealer",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Displays the maximum length of the password field. Useful for people who use password managers and have long, random passwords.",
 
